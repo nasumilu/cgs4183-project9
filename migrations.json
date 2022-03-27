@@ -1,0 +1,5 @@
+{
+  "migrations_paths": {
+    "Nasumilu\\CGS4183\\Migrations": "./src/Migrations"
+  }
+}
