@@ -42,8 +42,8 @@ OK (1 test, 1 assertion)
 
 ## More Information
 
-[Database ERD](./docs/erd.md)
-[Object Model](./docs/obj_model.md)
+- [Database ERD](./docs/erd.md)
+- [Object Model](./docs/obj_model.md)
 
 [1]: https://www.doctrine-project.org/projects/doctrine-orm/en/2.11/index.html
 [2]: https://www.doctrine-project.org/projects/doctrine-migrations/en/3.3/index.html
